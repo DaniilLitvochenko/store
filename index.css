@@ -1,0 +1,55 @@
+.headers {
+    font-family: 'Comic Sans MS', sans-serif;
+    font: 400;
+    font-size: 30;
+}
+
+#cart {
+    font-family: 'Comic Sans MS',  sans-serif;
+    font: 400;
+    font-size: 18;
+    border: 3px solid #048004;
+    height: 400px;
+    width: 97%; 
+    background: #29be31;
+}
+
+.products {
+    width: 140px;
+    display: inline-block;
+    font-family: 'Comic Sans MS', sans-serif;
+    font: 400;
+    font-size: 18;
+    border: 3px solid #048004;
+    text-align: center;
+    margin: 2px;
+    background: white; 
+}
+
+.price {
+    font-family: 'Comic Sans MS', sans-serif;
+    font: 400;
+    font-size: 14;
+    text-align: center;
+}
+
+.product_image {
+    width: 80px;
+    height: 80px;
+}
+
+.basket {
+    display: inline-block;
+}
+
+.stats {
+    font-family: 'Comic Sans MS', sans-serif;
+    font: 10;
+    margin: 5px;
+    margin-right: 30px;
+    display: inline-block;
+}
+
+body {
+    background-color: rgb(140, 230, 155);
+}
